@@ -1,3 +1,6 @@
+step1:Data Cleaning and Preprocessing
+
+
 Preprocessing and Cleaning of the Marketing Campaign Dataset:
 This repository contains the code and the resulting cleaned dataset from the preprocessing of the marketing_campaign.csv file. The goal of this process was to prepare the data for subsequent analysis or machine learning tasks by handling common data quality issues.
 
